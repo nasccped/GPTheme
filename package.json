@@ -1,0 +1,37 @@
+{
+  "name": "gptheme",
+  "displayName": "GPTheme",
+  "description": "A theme for VS Code based on the ChatGPT code view.",
+  "publisher": "pdr-nascimento",
+  "version": "0.2.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pdr-nascimento/GPTheme.git"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "IA",
+    "GPT",
+    "Chat",
+    "Nasc Ped",
+    "pdr-nascimento"
+  ],
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "imgs/theme-icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "GPTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gptheme.json"
+      }
+    ]
+  }
+}
