@@ -1,6 +1,9 @@
+<!-- title and description -->
 # GPTheme 🤖
 A theme for VS Code based on the ChatGPT code view. ***LET HIM CODE!!!*** 🍳
 
+
+<!-- content list -->
 # Content Map 🗺️
 - Theme
     - [Idea](#where-did-this-idea-come-from-🤔)
@@ -15,8 +18,8 @@ A theme for VS Code based on the ChatGPT code view. ***LET HIM CODE!!!*** 🍳
     - [Versions And Commits](#versions--commits-📓)
     - [Bye.](#final-words-👋)
 
-# Theme 🎨
 
+<!--theme section starts -->
 ## Where did this idea come from? 🤔
 The idea was not original on my part, because the theme already exists, and all I had to do was implement it in VS Code. In fact, the merit of creating the theme should go to GPT chat as well as its developers.
 
@@ -25,18 +28,15 @@ Unfortunately, providing a representation of how the project works is a somewhat
 
 ## Some extras ➕
 
-### Many versions
-In principle, the GPT Chat theme has very striking and defined colors, however, for some languages ​*​(like HTML, for example)* , its colors end up losing their presence. These features will still be maintained, but can be chosen by the user who can switch between a more faithful version and another that is slightly modified. **(Coming Soon)**
+- Many versions
+    - In principle, the GPT Chat theme has very striking and defined colors, however, for some languages ​*​(like HTML, for example)* , its colors end up losing their presence. These features will still be maintained, but can be chosen by the user who can switch between a more faithful version and another that is slightly modified. **(Coming Soon)**
 
-### Light mode
-In addition to a couple of similar versions that will be the user's choice, a light version of the theme may be implemented in the near future. **(even if the main characteristic of the theme is to be dark)**
+- Light mode
+    - In addition to a couple of similar versions that will be the user's choice, a light version of the theme may be implemented in the near future. **(even if the main characteristic of the theme is to be dark)**
 
-<br>
 
-# How to Install? ⬇️
-There are a way to download this extension:
-
-## VS Code Method 💻
+<!-- how to install section -->
+## Installing in VS Code ⬇️
 - **1. Open VS Code:**
     - Make sure Visual Studio Code is installed on your system and open the editor;
 
@@ -52,10 +52,8 @@ There are a way to download this extension:
 - **5. Apply the Theme:**
     - After installation, go to the VSCode settings (Ctrl + , or Cmd + ,) and in the "Color Theme" section, choose the ***"GPTheme"*** from the dropdown list.
 
-<br>
 
-# Useless Part
-
+<!-- useless part section -->
 ## License ✍️
 Wanna check the license? [**Click here!!!**](LICENSE.txt)
 
