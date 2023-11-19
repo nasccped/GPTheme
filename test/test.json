@@ -1,0 +1,13 @@
+{
+    "name": "Doug Heinner",
+    "age": 20,
+    "city": "Sun's Garden",
+    "isStudent": true,
+    "courses": ["Engineering", ""],
+    "address": {
+      "street": "Saint Peace St",
+      "zipCode": "338954",
+      "country": "Brazil"
+    }
+  }
+  
