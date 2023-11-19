@@ -2,10 +2,10 @@
   "name": "gptheme",
   "displayName": "GPTheme",
   "description": "A theme for Visual Studio Code based on the ChatGPT code view",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "publisher": "pedro-b-n",
   "license": "MIT",
-  "author":"Pedro [@pedro-b-n]",
+  "author": "Pedro [@pedro-b-n]",
   "icon": "logo.png",
   "homepage": "https://github.com/pedro-b-n/GPTheme",
   "repository": {
@@ -43,5 +43,4 @@
       }
     ]
   }
-
 }
