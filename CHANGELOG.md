@@ -2,7 +2,7 @@
 
 All notable changes to the "gptheme" extension will be documented in this file.
 
-## 1.1.0 ver. (2023-11-19)
+## 2.0.0 ver. (2023-11-19)
 
 - Reboot of the project. Many important files that were previously lost are now relocated
 
