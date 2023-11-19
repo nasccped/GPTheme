@@ -3,17 +3,17 @@
   "displayName": "GPTheme",
   "description": "A theme for Visual Studio Code based on the ChatGPT code view",
   "version": "0.0.1",
-  "publisher": "pdr-nascimento",
+  "publisher": "pedro-b-n",
   "license": "MIT",
-  "author":"Pedro Nascimento [@pdr-nascimento]",
+  "author":"Pedro Nascimento [@pedro-b-n]",
   "icon": "logo.png",
-  "homepage": "https://github.com/pdr-nascimento/GPTheme",
+  "homepage": "https://github.com/pedro-b-n/GPTheme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pdr-nascimento/GPTheme.git"
+    "url": "https://github.com/pedro-b-n/GPTheme.git"
   },
   "bugs": {
-    "url": "https://github.com/pdr-nascimento/GPTheme/issues"
+    "url": "https://github.com/pedro-b-n/GPTheme/issues"
   },
   "engines": {
     "vscode": "^1.84.0"
