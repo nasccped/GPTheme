@@ -71,7 +71,7 @@ Unfortunately, providing a representation of how the project works is a somewhat
 
 <!-- useless part section -->
 ## License ✍️
-Wanna check the license? [**Click here!!!**](LICENSE.txt)
+Wanna check the license? [**Click here!!!**](LICENSE)
 
 ## Versions & Commits 📓
 Wanna check the Versions and Commits? [**Click here!!!**](CHANGELOG.md)
