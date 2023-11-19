@@ -34,6 +34,22 @@ Unfortunately, providing a representation of how the project works is a somewhat
 - Light mode
     - In addition to a couple of similar versions that will be the user's choice, a light version of the theme may be implemented in the near future. **(even if the main characteristic of the theme is to be dark)**
 
+- Suggestions
+    - Here we have some settings in JSON format that you can (or cannot) paste into your settings.json file:
+    ---
+    - Turn off random colorization of bracket pairs (does not work for curly braces):
+    ```
+    "editor.bracketPairColorization.enabled": false,
+    ```
+
+    - To change the font (not advisable. This can directly imply code visibility):
+    ```
+    "editor.fontFamily": "'Courier New', monospace",
+    -> similar to ChatGPT, or
+
+    "editor.fontFamily": "YourFont, monospace",
+    -> choose from your preference
+    ```
 
 <!-- how to install section -->
 ## Installing in VS Code ⬇️
@@ -50,7 +66,7 @@ Unfortunately, providing a representation of how the project works is a somewhat
     - Click the **"Install"** button next to the theme;
 
 - **5. Apply the Theme:**
-    - After installation, go to the VSCode settings (Ctrl + , or Cmd + ,) and in the "Color Theme" section, choose the ***"GPTheme"*** from the dropdown list.
+    - After installation, go to the VSCode settings (Ctrl + , or Cmd +) and in the "Color Theme" section, choose the ***"GPTheme"*** from the dropdown list.
 
 
 <!-- useless part section -->
