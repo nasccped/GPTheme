@@ -2,6 +2,10 @@
 
 All notable changes to the "gptheme" extension will be documented in this file.
 
+## 3.0.0 ver. (2023-11-20)
+
+- Light mode has been added
+
 ## 2.0.0 ver. (2023-11-19)
 
 - Reboot of the project. Many important files that were previously lost are now relocated
