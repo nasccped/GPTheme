@@ -37,14 +37,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "GPTheme Light",
-        "uiTheme": "vs",
-        "path": "./themes/gptheme-light.json"
-      },
-      {
         "label": "GPTheme Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/gptheme-dark.json"
+      },
+      {
+        "label": "GPTheme Light",
+        "uiTheme": "vs",
+        "path": "./themes/gptheme-light.json"
       }
     ]
   }
