@@ -2,6 +2,10 @@
 
 All notable changes to the "gptheme" extension will be documented in this file.
 
+## 4.0.0 ver. (2023-12-01)
+
+- A color palette was created to better organize the scope of the theme. Big changes have been made to the Dark theme
+
 ## 3.0.0 ver. (2023-11-20)
 
 - Light mode has been added
